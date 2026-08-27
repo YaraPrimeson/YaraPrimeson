@@ -16,7 +16,8 @@ My background combines:
 
 ## Resume Website
 
-- [Open the resume and portfolio website](https://yaraprimeson.github.io/YaraPrimeson/)
+- [Open the resume and portfolio website — English](https://yaraprimeson.github.io/YaraPrimeson/)
+- [Відкрити сайт-резюме — українська](https://yaraprimeson.github.io/YaraPrimeson/index-uk.html)
 - [Download ATS resume](assets/Yaroslav_Semenov_AI_Automation_CV_ATS.pdf)
 - [View portfolio case studies](https://github.com/YaraPrimeson/ai-automation-case-studies)
 - [View live workflow demos](https://yaraprimeson.github.io/ai-automation-case-studies/demos/index.html)
