@@ -62,6 +62,12 @@
     .case { display: flex; flex-direction: column; }
     .case .tag { align-self: flex-start; padding: 4px 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent-dark); font-size: 12px; font-weight: 800; }
     .case .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: auto; padding-top: 20px; font-size: 14px; font-weight: 750; }
+    .website-showcase { overflow: hidden; padding: 0; }
+    .website-showcase img { display: block; width: 100%; height: auto; border-bottom: 1px solid var(--line); }
+    .website-showcase-body { padding: 25px; }
+    .website-showcase-body h3 { margin: 0 0 9px; font-size: 22px; letter-spacing: -.02em; }
+    .website-showcase-body p { max-width: 760px; margin: 0; color: var(--muted); }
+    .website-showcase-body .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; font-size: 14px; font-weight: 750; }
     .workflow { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; align-items: stretch; }
     .node { position: relative; padding: 18px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); text-align: center; font-size: 14px; font-weight: 750; }
     .node:not(:last-child)::after { content: "→"; position: absolute; right: -17px; top: 50%; transform: translateY(-50%); color: var(--accent); font-size: 20px; z-index: 1; }
@@ -98,6 +104,7 @@
           <li><a href="index-uk.html">UA</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#cases">Cases</a></li>
+          <li><a href="#websites">Websites</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
@@ -187,6 +194,25 @@
             <div class="links"><a href="https://github.com/YaraPrimeson/ai-automation-case-studies/blob/main/03-internal-crm-automation.md">Case study</a><a href="https://yaraprimeson.github.io/ai-automation-case-studies/demos/internal-crm-automation.html">Demo</a></div>
           </article>
         </div>
+      </div>
+    </section>
+
+    <section id="websites">
+      <div class="shell">
+        <div class="section-head">
+          <div class="eyebrow">Websites</div>
+          <h2>Websites with a clear visual direction.</h2>
+          <p>A visual showcase of web work, including the KYNG CUP tennis and padel tournament website.</p>
+        </div>
+        <article class="card website-showcase">
+          <img src="assets/selected-web-projects.png" alt="Selected web and automation projects, featuring the KYNG CUP tennis and padel website">
+          <div class="website-showcase-body">
+            <span class="tag">Live website</span>
+            <h3>KYNG CUP — Tennis · Padel · Community</h3>
+            <p>A premium editorial website for a tennis and padel tournament community. The design combines strong typography, sport photography, clear navigation, and a focused registration journey.</p>
+            <div class="links"><a href="https://yaraprimeson.github.io/kyng-cup/">View live website</a></div>
+          </div>
+        </article>
       </div>
     </section>
 
