@@ -56,6 +56,8 @@ Focus areas:
 
 Internal CRM and workflow systems built for an online business.
 
+More details: [AI Automation Case Studies](https://github.com/YaraPrimeson/ai-automation-case-studies)
+
 - Supported approximately 20 employees
 - Worked with up to 1,000 leads and requests
 - Automated lead distribution and sales funnels
