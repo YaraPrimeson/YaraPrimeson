@@ -14,6 +14,13 @@ My background combines:
 - third-party API integrations
 - technical project coordination
 
+## Resume Website
+
+- [Open the resume and portfolio website](https://yaraprimeson.github.io/YaraPrimeson/)
+- [Download ATS resume](assets/Yaroslav_Semenov_AI_Automation_CV_ATS.pdf)
+- [View portfolio case studies](https://github.com/YaraPrimeson/ai-automation-case-studies)
+- [View live workflow demos](https://yaraprimeson.github.io/ai-automation-case-studies/demos/index.html)
+
 ## What I can help with
 
 - AI-powered workflow automation
