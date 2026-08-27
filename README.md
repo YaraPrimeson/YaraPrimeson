@@ -97,4 +97,4 @@ Full-time remote opportunities in:
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/yaroslav-semenov-77945b209/
-- Email: yaroslavprimeson@gmail.com
+- Email: primesonyara@gmail.com
